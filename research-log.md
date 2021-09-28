@@ -3,7 +3,6 @@
 ## Week 1 (09/23-09/29)
 
 ### Goals
-- (Maybe) Attend research group meeting and record attendance
 - Set up research log
 - Complete Reflection 1: Identity and ERSP preliminary thoughts
 - Reflect on research logs
