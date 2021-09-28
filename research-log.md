@@ -11,6 +11,5 @@
 - Set up log
 - Wrote log reflection: <link to reflection> // TODO
 
-### 09/27
-- 1 hour
+### 09/27 (1 hour)
 - Set up log. I chose to use GitHub markdown for my first log because it has good formatting, appearance, and version control.
