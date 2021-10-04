@@ -16,6 +16,7 @@
 
 ### 09/28 (1)
 - Write log reflection
+- Attended weekly research meeting
 
 
 ## Week 2 (09/30-10/06)
