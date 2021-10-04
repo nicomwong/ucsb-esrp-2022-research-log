@@ -23,6 +23,8 @@
 ### Goals
 - [X] Read ["Research Paper Prep"](https://ersp.cs.ucsb.edu/cs190n/assignment-research-paper-prep)
 - [X] Read first two sections of the team [research paper](https://www.usenix.org/system/files/osdi21-ahmad.pdf)
+- [ ] Read and discuss a [research paper](https://arxiv.org/pdf/1612.07828.pdf) and [take notes](https://docs.google.com/document/u/2/d/1-BN9rOPSgKlLXDo4_v1QWkaCewLlss2lfjOfiUxtlZY/edit)
+- [ ] [Read and respond to my assigned research paper](https://ersp.cs.ucsb.edu/cs190n/assignment-reading-research-paper)
 
 ### 10/03 (2)
 - Read "Research Paper Prep"
