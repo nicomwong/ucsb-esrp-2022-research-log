@@ -1,7 +1,7 @@
 # Research Log
 
 ## Notes
-- # hours spent are in parentheses in daily headers
+- \# hours spent are in parentheses in daily headers
 
 ## Week 1 (09/23-09/29)
 
