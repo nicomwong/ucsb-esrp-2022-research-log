@@ -21,7 +21,8 @@
 ## Week 2 (09/30-10/06)
 
 ### Goals
-- [X] Read "Research Paper Prep"
+- [X] Read ["Research Paper Prep"](https://ersp.cs.ucsb.edu/cs190n/assignment-research-paper-prep)
+- [X] Read first two sections of the team [research paper](https://www.usenix.org/system/files/osdi21-ahmad.pdf)
 
 ### 10/03 (2)
 - Read "Research Paper Prep"
