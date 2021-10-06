@@ -29,6 +29,8 @@
 - [X] Read first two sections of the team [research paper](https://www.usenix.org/system/files/osdi21-ahmad.pdf)
 - [ ] Read and discuss a [research paper](https://arxiv.org/pdf/1612.07828.pdf) and [take notes](https://docs.google.com/document/u/2/d/1-BN9rOPSgKlLXDo4_v1QWkaCewLlss2lfjOfiUxtlZY/edit)
 - [ ] [Read and respond to my assigned research paper](https://ersp.cs.ucsb.edu/cs190n/assignment-reading-research-paper)
+    - [Research paper](https://www.usenix.org/system/files/osdi21-ahmad.pdf)
+    - [Notes](https://docs.google.com/document/d/1CIUsXgm_xan66bqSIEDlNEb3bCUmWpryhulQIobfhDM/edit?usp=sharing)
 - [ ] Plan mentor meeting time
 - [ ] Plan weekly team meeting time
 - [ ] Create team-only Slack channel
