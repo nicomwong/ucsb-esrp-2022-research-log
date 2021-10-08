@@ -3,6 +3,13 @@
 ## Notes
 - \# hours spent are in parentheses in daily headers
 
+## Week 3 (10/07-10/14)
+
+### Goals
+- [ ]  Finishing reading the team's research paper on Addra and FastPIR
+- [ ]  Look at the client interface code for Addra [https://github.com/ishtiyaque/addra](https://github.com/ishtiyaque/addra)
+- [ ]  Look around for some voice encoders
+
 ## Week 2 (09/30-10/06)
 
 ### Goals
