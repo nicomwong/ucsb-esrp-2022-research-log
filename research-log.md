@@ -7,6 +7,7 @@
 
 ### Goals
 - [ ] Continue researching paper teaching topic (homomorphic encryption / BFV)
+- [ ] Watch [Addra video](https://www.youtube.com/watch?v=RAlPCWZnVJA) (15 min)
 
 ## Week 3 (10/07-10/13)
 
