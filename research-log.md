@@ -3,7 +3,12 @@
 ## Notes
 - \# hours spent are in parentheses in daily headers
 
-## Week 3 (10/07-10/14)
+## Week 4 (10/14-10/20)
+
+### Goals
+- [ ] Continue researching paper teaching topic (homomorphic encryption / BFV)
+
+## Week 3 (10/07-10/13)
 
 ### Goals
 - [X]  Look at the client interface code for Addra [https://github.com/ishtiyaque/addra](https://github.com/ishtiyaque/addra)
