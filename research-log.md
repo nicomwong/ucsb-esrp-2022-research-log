@@ -6,9 +6,19 @@
 ## Week 3 (10/07-10/14)
 
 ### Goals
-- [ ]  Finishing reading the team's research paper on Addra and FastPIR
-- [ ]  Look at the client interface code for Addra [https://github.com/ishtiyaque/addra](https://github.com/ishtiyaque/addra)
+- [X]  Look at the client interface code for Addra [https://github.com/ishtiyaque/addra](https://github.com/ishtiyaque/addra)
 - [ ]  Look around for some voice encoders
+- [X]  Research paper teaching topic (homomorphic encryption / BFV) before 10/13
+- [X]  Deliver short presentation of Addra with team (Wednesday CS 110 meeting)
+
+### 10/09 (2)
+- Look at client interface code for Addra
+    - Was very confusing, will ask for clarification in weekly research group meeting
+
+### 10/13 (3)
+- Attend weekly research group meeting
+- Research paper teaching topic
+- Deliver short presentation of Addra with team
 
 ## Week 2 (09/30-10/06)
 
