@@ -8,7 +8,7 @@
 ### Goals
 - [X]  Look at the client interface code for Addra [https://github.com/ishtiyaque/addra](https://github.com/ishtiyaque/addra)
 - [ ]  Look around for some voice encoders
-- [X]  Research paper teaching topic (homomorphic encryption / BFV) before 10/13
+- [X]  Research paper teaching topic (homomorphic encryption / BFV)
 - [X]  Deliver short presentation of Addra with team (Wednesday CS 110 meeting)
 
 ### 10/09 (2)
