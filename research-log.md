@@ -7,8 +7,14 @@
 
 ### Goals
 - [ ] Continue researching paper teaching topic (homomorphic encryption / BFV)
-- [ ] Watch [Addra video](https://www.youtube.com/watch?v=RAlPCWZnVJA) (15 min)
+- [X] Watch [Addra video](https://www.youtube.com/watch?v=RAlPCWZnVJA) (15 min)
 - [ ] Look around for some voice encoders
+
+### 10/13 (1)
+- Use Google to learn the basics of voice encoders
+
+### 10/14 (1)
+- Watch Addra video
 
 ## Week 3 (10/07-10/13)
 
