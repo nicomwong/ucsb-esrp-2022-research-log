@@ -6,15 +6,20 @@
 ## Week 4 (10/14-10/20)
 
 ### Goals
-- [ ] Continue researching paper teaching topic (homomorphic encryption / BFV)
+- [ ] [Part 1 (Individual): Identifying general research problems and technical challenges](https://ersp.cs.ucsb.edu/cs190n/assignment-identifying-your-groups-research-problem-and-initial-proposed-approach#:~:text=Part%201%20(Individual)%3A%20Identifying%20general%20research%20problems%20and%20technical%20challenges)
+- [X] Prepare teaching topic (homomorphic encryption / BFV) and questions
+- [X] Continue researching paper teaching topic (homomorphic encryption / BFV)
 - [X] Watch [Addra video](https://www.youtube.com/watch?v=RAlPCWZnVJA) (15 min)
-- [ ] Look around for some voice encoders
+- [X] Look around for some voice encoders
 
 ### 10/13 (1)
 - Use Google to learn the basics of voice encoders
 
 ### 10/14 (1)
 - Watch Addra video
+
+### 10/17 (2)
+- Prepare teaching topic (homomorphic encryption / BFV) and questions
 
 ## Week 3 (10/07-10/13)
 
