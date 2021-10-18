@@ -8,6 +8,7 @@
 ### Goals
 - [ ] [Part 1 (Individual): Identifying general research problems and technical challenges](https://ersp.cs.ucsb.edu/cs190n/assignment-identifying-your-groups-research-problem-and-initial-proposed-approach#:~:text=Part%201%20(Individual)%3A%20Identifying%20general%20research%20problems%20and%20technical%20challenges)
 - [X] Prepare teaching topic (homomorphic encryption / BFV) and questions
+    - [Notes](https://nicomwong.notion.site/research-assigned-topic-homomorphic-encryption-BFV-fce508704df849578fbeac92c66ba913)
 - [X] Continue researching paper teaching topic (homomorphic encryption / BFV)
 - [X] Watch [Addra video](https://www.youtube.com/watch?v=RAlPCWZnVJA) (15 min)
 - [X] Look around for some voice encoders
