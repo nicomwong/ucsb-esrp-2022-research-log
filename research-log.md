@@ -3,10 +3,15 @@
 ## Notes
 - \# hours spent are in parentheses in daily headers
 
-## Week 4 (10/14-10/20)
+## Week 5 (10/21-10/27)
 
 ### Goals
 - [ ] [Part 1 (Individual): Identifying general research problems and technical challenges](https://ersp.cs.ucsb.edu/cs190n/assignment-identifying-your-groups-research-problem-and-initial-proposed-approach#:~:text=Part%201%20(Individual)%3A%20Identifying%20general%20research%20problems%20and%20technical%20challenges)
+- [ ] [Literature search part 1](https://ersp.cs.ucsb.edu/cs190n/assignment-literature-search#:~:text=Lit%20Search%20Part%201%20(due%20Wednesday%20of%20Week%205)%3A%20The%20lay%20of%20the%20land)
+
+## Week 4 (10/14-10/20)
+
+### Goals
 - [X] Prepare teaching topic (homomorphic encryption / BFV) and questions
     - [Notes](https://nicomwong.notion.site/research-assigned-topic-homomorphic-encryption-BFV-fce508704df849578fbeac92c66ba913)
 - [X] Continue researching paper teaching topic (homomorphic encryption / BFV)
@@ -21,6 +26,11 @@
 
 ### 10/17 (2)
 - Prepare teaching topic (homomorphic encryption / BFV) and questions
+
+### 10/20 (3)
+- Attend weekly research meeting
+- Schedule weekly meeting time with Ishtiyaque (mentor) and teammates
+- Attend CS 110 class time and teach teammates about homomorphic encryption / BFV
 
 ## Week 3 (10/07-10/13)
 
