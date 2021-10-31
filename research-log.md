@@ -3,11 +3,16 @@
 ## Notes
 - \# hours spent are in parentheses in daily headers
 
+## Week 6 (10/28-11/02)
+
+### Goals
+- [ ] [Lit Search Part 2 (due Monday of Week 6): Narrowing down (Group assignment)](https://ersp.cs.ucsb.edu/cs190n/assignment-literature-search#:~:text=Lit%20Search%20Part%202%20(due%20Monday%20of%20Week%206)%3A%20Narrowing%20down%20(Group%20assignment))
+- [ ] [Part 1: Research context and problem statement](https://ersp.cs.ucsb.edu/cs190n/assignment-project-proposal-draft#:~:text=Part%201%3A%20Research%20context%20and%20problem%20statement)
+
 ## Week 5 (10/21-10/27)
 
 ### Goals
 - [X] [Part 1 (Individual): Identifying general research problems and technical challenges](https://ersp.cs.ucsb.edu/cs190n/assignment-identifying-your-groups-research-problem-and-initial-proposed-approach#:~:text=Part%201%20(Individual)%3A%20Identifying%20general%20research%20problems%20and%20technical%20challenges)
-- [ ] [Part 2 (Group): Refining your research problem and getting a start at a solution](https://ersp.cs.ucsb.edu/cs190n/assignment-identifying-your-groups-research-problem-and-initial-proposed-approach#:~:text=Part%202%20(Group)%3A%20Refining%20your%20research%20problem%20and%20getting%20a%20start%20at%20a%20solution)
 - [X] [Literature search part 1](https://ersp.cs.ucsb.edu/cs190n/assignment-literature-search#:~:text=Lit%20Search%20Part%201%20(due%20Wednesday%20of%20Week%205)%3A%20The%20lay%20of%20the%20land)
     - [link](https://docs.google.com/document/d/17aSD51Y-_eXkkHOTgMwNBWvz1hmFJgX7GAKLw4llidg/edit?usp=sharing)
 - [X] Email research group to additional project ideas
@@ -25,6 +30,7 @@
 - Literature search part 1
 - Email research group to additional project ideas
 - Attend Wednesday CS 110 session
+- Meet with mentor for 30 minutes to discuss additional project ideas
 
 ## Week 4 (10/14-10/20)
 
