@@ -14,6 +14,21 @@
 - Lit Search Part 2 (due Monday of Week 6): Narrowing down
     - Chose and wrote about one of the papers (Pung)
 
+### 11/01 (2)
+- Attend CS 110 Monday meeting
+- Discuss possible team research project ideas:
+    - GPU programming for improved speed
+        - high impact for Addra performance
+        - good to learn/know GPU programming
+        - challenging
+    - Addra for asynchronous applications
+        - replacement for Pung
+        - recursion for FastPIR
+        - multi-mailbox query
+    - end-to-end integration for voice calls
+        - learn voice encoding tools
+        - less interaction
+
 ## Week 5 (10/21-10/27)
 
 ### Goals
