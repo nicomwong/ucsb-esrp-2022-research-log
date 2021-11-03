@@ -30,6 +30,11 @@
         - less interaction
 - Decide on end-to-end integration for voice calls since every team member was positive about the idea
 
+### 11/03 (2.5)
+- Attend CS 110 Wednesday meeting
+- Attend weekly research group meeting with mentor and professors
+    - Tell them about which project idea we are moving forward with
+
 ## Week 5 (10/21-10/27)
 
 ### Goals
