@@ -9,6 +9,7 @@
 - [X] [Lit Search Part 2 (due Monday of Week 6): Narrowing down (Group assignment)](https://ersp.cs.ucsb.edu/cs190n/assignment-literature-search#:~:text=Lit%20Search%20Part%202%20(due%20Monday%20of%20Week%206)%3A%20Narrowing%20down%20(Group%20assignment))
     - - [link](https://docs.google.com/document/d/17aSD51Y-_eXkkHOTgMwNBWvz1hmFJgX7GAKLw4llidg/edit?usp=sharing)
 - [X] [Part 1: Research context and problem statement](https://ersp.cs.ucsb.edu/cs190n/assignment-project-proposal-draft#:~:text=Part%201%3A%20Research%20context%20and%20problem%20statement)
+- [X] [Reflection 2](https://ersp.cs.ucsb.edu/cs110-research-methods-computer-science#:~:text=Complete-,Reflection%202,-Proposal%2C%20part%201)
 
 ### 10/31 (1)
 - Lit Search Part 2 (due Monday of Week 6): Narrowing down
@@ -34,6 +35,7 @@
 - Attend CS 110 Wednesday meeting
 - Attend weekly research group meeting with mentor and professors
     - Tell them about which project idea we are moving forward with
+- Complete Reflection 2
 
 ## Week 5 (10/21-10/27)
 
