@@ -8,7 +8,7 @@
 ### Goals
 - [X] [Lit Search Part 2 (due Monday of Week 6): Narrowing down (Group assignment)](https://ersp.cs.ucsb.edu/cs190n/assignment-literature-search#:~:text=Lit%20Search%20Part%202%20(due%20Monday%20of%20Week%206)%3A%20Narrowing%20down%20(Group%20assignment))
     - - [link](https://docs.google.com/document/d/17aSD51Y-_eXkkHOTgMwNBWvz1hmFJgX7GAKLw4llidg/edit?usp=sharing)
-- [ ] [Part 1: Research context and problem statement](https://ersp.cs.ucsb.edu/cs190n/assignment-project-proposal-draft#:~:text=Part%201%3A%20Research%20context%20and%20problem%20statement)
+- [X] [Part 1: Research context and problem statement](https://ersp.cs.ucsb.edu/cs190n/assignment-project-proposal-draft#:~:text=Part%201%3A%20Research%20context%20and%20problem%20statement)
 
 ### 10/31 (1)
 - Lit Search Part 2 (due Monday of Week 6): Narrowing down
@@ -28,6 +28,7 @@
     - end-to-end integration for voice calls
         - learn voice encoding tools
         - less interaction
+- Decide on end-to-end integration for voice calls since every team member was positive about the idea
 
 ## Week 5 (10/21-10/27)
 
