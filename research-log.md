@@ -6,16 +6,16 @@
 ## Week 7 (11/03-11/09)
 
 ### Goals
+- [ ] [Proposal Part 2: Proposed Solution](https://ersp.cs.ucsb.edu/cs190n/assignment-project-proposal-draft)
 
-
-### 11/05
+### 11/05 (2)
 - Meet with research team
     - Work on proposal part 2
         - Create our [proposed voice call application system design](https://drive.google.com/file/d/16YueFuB-XaucpEk5HRgyMnF3MX7X44VX/view?usp=sharing)
         - Research which voice encoders to use and how they interact with the code
         - Research voice recorders and outputters
 
-### 11/08
+### 11/08 (2)
 - Attend CS 110 Monday class
     - Finish [proposal example review form](https://docs.google.com/document/d/1ZYUnBqSJHmbzj6yRfWOkkQlVYRW6d9Ol/edit?usp=sharing&ouid=103192414138203597903&rtpof=true&sd=true)
 
