@@ -3,6 +3,22 @@
 ## Notes
 - \# hours spent are in parentheses in daily headers
 
+## Week 7 (11/03-11/09)
+
+### Goals
+
+
+### 11/05
+- Meet with research team
+    - Work on proposal part 2
+        - Create our [proposed voice call application system design](https://drive.google.com/file/d/16YueFuB-XaucpEk5HRgyMnF3MX7X44VX/view?usp=sharing)
+        - Research which voice encoders to use and how they interact with the code
+        - Research voice recorders and outputters
+
+### 11/08
+- Attend CS 110 Monday class
+    - Finish [proposal example review form](https://docs.google.com/document/d/1ZYUnBqSJHmbzj6yRfWOkkQlVYRW6d9Ol/edit?usp=sharing&ouid=103192414138203597903&rtpof=true&sd=true)
+
 ## Week 6 (10/28-11/02)
 
 ### Goals
