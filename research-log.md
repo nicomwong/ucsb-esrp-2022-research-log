@@ -3,10 +3,20 @@
 ## Notes
 - \# hours spent are in parentheses in daily headers
 
+## Week 8 (11/10-11/16)
+
+### Goals
+- [ ] Proposal Part 3
+
+### 11/12 (2)
+- Weekly team meeting
+    - Review Part 1 and Part 2 of the [proposal](https://www.overleaf.com/project/618062838f6fa9d90c073fdb)
+    - Draft Part 3
+
 ## Week 7 (11/03-11/09)
 
 ### Goals
-- [ ] [Proposal Part 2: Proposed Solution](https://ersp.cs.ucsb.edu/cs190n/assignment-project-proposal-draft)
+- [X] [Proposal Part 2: Proposed Solution](https://ersp.cs.ucsb.edu/cs190n/assignment-project-proposal-draft)
 
 ### 11/05 (2)
 - Meet with research team
