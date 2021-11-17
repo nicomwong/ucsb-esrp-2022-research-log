@@ -3,17 +3,30 @@
 ## Notes
 - \# hours spent are in parentheses in daily headers
 
-## Week 8 (11/10-11/16)
+## Week 9 (11/18-11/24)
 
 ### Goals
-- [ ] Proposal Part 3
+- [ ] [Peer reviews on proposal drafts](https://ersp.cs.ucsb.edu/cs190n/assignment-proposal-peer-reviews)
+
+## Week 8 (11/11-11/17)
+
+### Goals
+- [X] Proposal Part 3
 
 ### 11/12 (2)
 - Weekly team meeting
     - Review Part 1 and Part 2 of the [proposal](https://www.overleaf.com/project/618062838f6fa9d90c073fdb)
     - Draft Part 3
 
-## Week 7 (11/03-11/09)
+### 11/15
+- Miss CS 110 meeting due to mandatory attendance of another course
+
+### 11/17 (3)
+- Attend CS 110 weekly meeting
+    - Finish editing proposal draft
+- Attend weekly research group meeting
+
+## Week 7 (11/04-11/10)
 
 ### Goals
 - [X] [Proposal Part 2: Proposed Solution](https://ersp.cs.ucsb.edu/cs190n/assignment-project-proposal-draft)
@@ -29,7 +42,7 @@
 - Attend CS 110 Monday class
     - Finish [proposal example review form](https://docs.google.com/document/d/1ZYUnBqSJHmbzj6yRfWOkkQlVYRW6d9Ol/edit?usp=sharing&ouid=103192414138203597903&rtpof=true&sd=true)
 
-## Week 6 (10/28-11/02)
+## Week 6 (10/28-11/03)
 
 ### Goals
 - [X] [Lit Search Part 2 (due Monday of Week 6): Narrowing down (Group assignment)](https://ersp.cs.ucsb.edu/cs190n/assignment-literature-search#:~:text=Lit%20Search%20Part%202%20(due%20Monday%20of%20Week%206)%3A%20Narrowing%20down%20(Group%20assignment))
