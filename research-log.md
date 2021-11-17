@@ -12,6 +12,7 @@
 
 ### Goals
 - [X] Proposal Part 3
+- Finish editing proposal draft
 
 ### 11/12 (2)
 - Weekly team meeting
