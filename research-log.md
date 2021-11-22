@@ -6,7 +6,10 @@
 ## Week 9 (11/18-11/24)
 
 ### Goals
-- [ ] [Peer reviews on proposal drafts](https://ersp.cs.ucsb.edu/cs190n/assignment-proposal-peer-reviews)
+- [X] [Peer reviews on proposal drafts](https://ersp.cs.ucsb.edu/cs190n/assignment-proposal-peer-reviews)
+
+### 11/21 (1)
+- Finish peer review
 
 ## Week 8 (11/11-11/17)
 
