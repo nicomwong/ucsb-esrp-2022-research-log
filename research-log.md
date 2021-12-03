@@ -10,7 +10,7 @@
 - [ ] Finish final proposal revisions based on instructor feedback
 
 ### 12/03 (1)
-- 
+- Message Isthiyaque (our mentor) if he is willing to be interviewed next week
 
 ### Week 10 (11/25-12/01)
 
