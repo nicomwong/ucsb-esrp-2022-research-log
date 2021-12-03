@@ -3,6 +3,28 @@
 ## Notes
 - \# hours spent are in parentheses in daily headers
 
+### Week 11 (12/02-12/08)
+
+### Goals
+- [ ] Interview graduate student
+- [ ] Finish final proposal revisions based on instructor feedback
+
+### 12/03 (1)
+- 
+
+### Week 10 (11/25-12/01)
+
+### Goals
+- [X] Complete final presentation draft
+- [X] Revise proposal based on peer review comments
+
+### 11/30 (1)
+- Revise proposal based on peer review comments
+    - My task was to define some terms: RPC, full duplex, ...
+
+### 12/01 (1)
+- Informal presentation to two other research teams in-person
+
 ## Week 9 (11/18-11/24)
 
 ### Goals
