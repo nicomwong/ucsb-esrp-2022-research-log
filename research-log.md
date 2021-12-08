@@ -6,11 +6,18 @@
 ### Week 11 (12/02-12/08)
 
 ### Goals
-- [ ] Interview graduate student
-- [ ] Finish final proposal revisions based on instructor feedback
+- [X] Interview graduate student
+- [X] Finish final proposal revisions based on instructor feedback
 
 ### 12/03 (1)
 - Message Isthiyaque (our mentor) if he is willing to be interviewed next week
+
+### 12/06 (0)
+- Submit proposal
+
+### 12/07 (2)
+- Interview Chinmay about graduate school
+    -  interview notes and reflection: https://docs.google.com/document/d/1Y7iUikWeuj_phdiwGOmxAP_NVFL0CW03zve9pY5AexU/edit?usp=sharing
 
 ### Week 10 (11/25-12/01)
 
